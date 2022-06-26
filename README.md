@@ -1,5 +1,3 @@
-# course_api
-
 
 ### Dependências
 
@@ -27,4 +25,5 @@ Caso esteja utilizando windows troque o python3 por python.
     - Não implementados ainda.
 	
 ## Um pouco sobre a aplicação.
-Api foi feita com FastAPI utilizando Autenticação JWT
+### Eu fiz está API para estudar FastAPI.
+### Api foi feita com FastAPI utilizando Autenticação JWT
