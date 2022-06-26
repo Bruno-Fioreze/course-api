@@ -26,5 +26,3 @@ Caso esteja utilizando windows troque o python3 por python.
 	
 ## Um pouco sobre a aplicação.
 Eu fiz está API para estudar FastAPI.
-
-A API foi feita com FastAPI utilizando Autenticação JWT.
